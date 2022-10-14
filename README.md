@@ -196,9 +196,9 @@ int main(void)
 
 ```
 ## Proteus simulation 
-
+#### Display OFF:
 ![op](./114.png)
-
+#### Display ON:
 ![op](./s01.png)
 
 ## Layout Diagram 
